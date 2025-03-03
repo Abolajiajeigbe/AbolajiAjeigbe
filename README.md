@@ -1,16 +1,18 @@
-## Hi there 👋
+# 📊 Excel Bike Sales Dashboard (Locked for Protection)
 
-<!--
-**Abolajiajeigbe/AbolajiAjeigbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 Overview
+This project contains a protected Excel dashboard analyzing Bike sales data. The file is locked to prevent modifications but allows interaction with slicers.
 
-Here are some ideas to get you started:
+## 📂 Files Included
+- **Sales-Dashboard.xlsx** → Locked interactive dashboard
+- **Sales-Dashboard.xlsx** → Raw Data
+- **Screenshot/** →
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Key Insights
+- **Key Sales Trend:** Bikes are bought moe by men between the Ages of 31-54.
+- **Customer Behavior:** Single men are more likely to buy a Bike than Single Women.
+
+## 📥 How to Use
+1. Download `Sales-Dashboard.xlsx`.
+2. Open in Excel and interact with slicers/filters.
+3. The file is protected to prevent editing.
